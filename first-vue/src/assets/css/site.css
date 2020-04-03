@@ -1,0 +1,27 @@
+.text-primary{
+  color: #2d8cf0;
+}
+.text-primary-l{
+  color: #5cadff;
+}
+.text-primary-d{
+   color: #2b85e4;
+ }
+.text-info{
+  color: #2db7f5;
+}
+.text-success{
+  color: #19be6b;
+}
+.text-warning{
+  color: #ff9900;
+}
+.text-error{
+  color: #ed4014;
+}
+.text-sub{
+  color: #808695;
+}
+.text-content{
+  color: #515a6e;
+}
